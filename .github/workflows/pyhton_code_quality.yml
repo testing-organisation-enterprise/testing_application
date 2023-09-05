@@ -1,4 +1,4 @@
-- name: Python Code Quality Action
+- name: 'Python Code Quality Action'
   # You may pin to the exact commit or the version.
   # uses: WillCodeForCats/python-lint-action@39271fd906b370259dbfa2b87b50d2853dce9e68
   uses: WillCodeForCats/python-lint-action@v1.0.1
